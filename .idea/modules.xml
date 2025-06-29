@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_Array/01_Array.iml" filepath="$PROJECT_DIR$/01_Array/01_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_Array/02_Array.iml" filepath="$PROJECT_DIR$/02_Array/02_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_Arrays_TwoPointer/03_Arrays_TwoPointer.iml" filepath="$PROJECT_DIR$/03_Arrays_TwoPointer/03_Arrays_TwoPointer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_2DArray/04_2DArray.iml" filepath="$PROJECT_DIR$/04_2DArray/04_2DArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_ArrayList/05_ArrayList.iml" filepath="$PROJECT_DIR$/05_ArrayList/05_ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_Practice_Arrays/05_Practice_Arrays.iml" filepath="$PROJECT_DIR$/05_Practice_Arrays/05_Practice_Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_Practice_Recursion/06_Practice_Recursion.iml" filepath="$PROJECT_DIR$/06_Practice_Recursion/06_Practice_Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_Recursion/06_Recursion.iml" filepath="$PROJECT_DIR$/06_Recursion/06_Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_Bubble_Sort/07_Bubble_Sort.iml" filepath="$PROJECT_DIR$/07_Bubble_Sort/07_Bubble_Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_Selection_Sort/08_Selection_Sort.iml" filepath="$PROJECT_DIR$/08_Selection_Sort/08_Selection_Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_Insertion_Sort/09_Insertion_Sort.iml" filepath="$PROJECT_DIR$/09_Insertion_Sort/09_Insertion_Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_Practice_Sorting/10_Practice_Sorting.iml" filepath="$PROJECT_DIR$/10_Practice_Sorting/10_Practice_Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15_Linked_List/15_Linked_List.iml" filepath="$PROJECT_DIR$/15_Linked_List/15_Linked_List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16_Practice_LinkedList/16_Practice_LinkedList.iml" filepath="$PROJECT_DIR$/16_Practice_LinkedList/16_Practice_LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17_Doubly_LinkedList/17_Doubly_LinkedList.iml" filepath="$PROJECT_DIR$/17_Doubly_LinkedList/17_Doubly_LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18_Circular_LinkedList/18_Circular_LinkedList.iml" filepath="$PROJECT_DIR$/18_Circular_LinkedList/18_Circular_LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19_Stacks/19_Stacks.iml" filepath="$PROJECT_DIR$/19_Stacks/19_Stacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA.iml" filepath="$PROJECT_DIR$/.idea/DSA.iml" />
+    </modules>
+  </component>
+</project>
