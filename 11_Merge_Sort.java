@@ -45,6 +45,7 @@ class Merge_Sort {
     }
 
     public static void main(String[] args) {
+        System.out.println();
         int arr[] = {7,20,4,11,8,2};
 
         int n = arr.length;
